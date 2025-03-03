@@ -45,6 +45,7 @@ Our project InsightStream worked perfectly on the local system during testing. H
 [Click here to watch the video 👉🏽 https://drive.google.com/file/d/1WykKoPaP6k-8w3BpStbXhtz2URy9frJN/view?usp=sharing]
 
 📸 Screenshots
+
 Home Page 🏠
 
 Category Page 🔍
