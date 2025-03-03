@@ -21,7 +21,7 @@ InsightStream is a simple news web application built using **React.js**. It fetc
 ## 🚀 How to Run the Project
 1. Clone the Repository:
    ```bash
-   git clone [Your Repository Link]
+   git clone https://github.com/Sona4suriya/InsightStream_NewsApp.git
    ```
 2. Install Dependencies:
    ```bash
