@@ -39,6 +39,8 @@ InsightStream is a simple news web application built using **React.js**. It fetc
 - Newsletter Subscription 📧
 
 ## 👨‍💻 Developed By
+This project was developed under the leadership of Sonashree V, with valuable contributions from all team members.
+
 - Sonashree V (Team Leader)
 - Dheekshitha K
 - Lakshitha B
