@@ -57,7 +57,7 @@ Newsletter Subscription 📧
 ## 👩🏽‍💻 Developed By
 This project was developed under the leadership of Sonashree V, with valuable contributions from all team members.
 
-- Sonashree V (Team Leader)
+- **Sonashree V (Team Leader)**
 - Dheekshitha K
 - Lakshitha B
 - Sweatha K M
