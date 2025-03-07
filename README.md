@@ -42,7 +42,7 @@ You can also download the full project folder from this Google Drive link:
 
 ## 🎥 Project Demonstration Video
 
-Our project InsightStream worked perfectly on the local system during testing. However, due to technical limitations on GitHub, the live preview is not loading. You can view the full functionality of the application in this video:
+You can view the full functionality of Our project InsightStream application in this video:
 
 [Click here to watch the video 👉🏽 https://drive.google.com/file/d/1WykKoPaP6k-8w3BpStbXhtz2URy9frJN/view?usp=sharing]
 
